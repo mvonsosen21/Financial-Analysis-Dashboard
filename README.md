@@ -1,4 +1,4 @@
-# FA_Dashboard
+# Financial Analysis Dashboard
 RShiny Financial Analysis Dashboard
 
 I have developed a comprehensive financial analysis dashboard within the RShiny framework. This dynamic tool is equipped with synthetic data and pseudonymous account names. The development of this dashboard encompasses a range of sophisticated operations and functionalities, as detailed below:
@@ -30,7 +30,7 @@ The dashboard also includes a comprehensive analysis of the recurring expenses i
 - Monthly Recurring Expense Visualization: Users can explore recurring expenses by category for each month within the specified timeframe, providing valuable insights into expense patterns.
 - Total Recurring Expenses Over Time: A visualization tracking the cumulative recurring expenses over the specified timeframe.
 - Value Boxes: Two value boxes offer quick access to key recurring expense information:
-> - Average Monthly Recurring Spend: Calculated for the selected timeframe, this metric aids in understanding the average monthly commitment to recurring expenses.
-> - Number of Monthly Recurring Expenses: This value box succinctly communicates the count of recurring expenses incurred by the company each month.
+ - Average Monthly Recurring Spend: Calculated for the selected timeframe, this metric aids in understanding the average monthly commitment to recurring expenses.
+ - Number of Monthly Recurring Expenses: This value box succinctly communicates the count of recurring expenses incurred by the company each month.
 
 In summary, this RShiny financial analysis dashboard empowers users to gain valuable financial insights and make data-driven decisions, all while safeguarding data privacy and ensuring a user-friendly experience.
